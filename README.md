@@ -14,12 +14,13 @@ Expanding Expo capabilities by bridging native SDKs.<br />
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likeSo)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<!-- 请注意，没有dist文件夹，因为action里面没把dist文件夹push到output分支 -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/likeSo/likeSo/output/dist/github-snake-dark.svg" />
+          srcset="https://raw.githubusercontent.com/likeSo/likeSo/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/likeSo/likeSo/output/dist/github-snake.svg" />
+          srcset="https://raw.githubusercontent.com/likeSo/likeSo/output/github-snake.svg" />
   <img alt="github contribution snake"
-       src="https://raw.githubusercontent.com/likeSo/likeSo/output/dist/github-snake.svg"
+       src="https://raw.githubusercontent.com/likeSo/likeSo/output/github-snake.svg"
        width="100%" />
 </picture>
