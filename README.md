@@ -16,10 +16,10 @@ Expanding Expo capabilities by bridging native SDKs.<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="/likeSo/likeSo/blob/output/dist/github-snake-dark.svg?raw=true" />
+          srcset="https://raw.githubusercontent.com/likeSo/likeSo/output/dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)"
-          srcset="/likeSo/likeSo/blob/output/dist/github-snake.svg?raw=true" />
-  <img alt="snake"
-       src="/likeSo/likeSo/blob/output/dist/github-snake.svg?raw=true"
+          srcset="https://raw.githubusercontent.com/likeSo/likeSo/output/dist/github-snake.svg" />
+  <img alt="github contribution snake"
+       src="https://raw.githubusercontent.com/likeSo/likeSo/output/dist/github-snake.svg"
        width="100%" />
 </picture>
